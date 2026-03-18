@@ -10,8 +10,6 @@ Este repositório documenta minha jornada de aprendizado em Python, com exercíc
 
 ---
 
----
-
 ## 🧠 Tópicos cobertos
 
 - [x] Variáveis e tipos de dados
