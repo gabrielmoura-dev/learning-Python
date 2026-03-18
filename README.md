@@ -10,34 +10,6 @@ Este repositório documenta minha jornada de aprendizado em Python, com exercíc
 
 ---
 
-## 🗂️ Estrutura
-
-```
-📦 python-learning
-├── 📁 fundamentos/
-│   ├── variaveis_e_tipos.py
-│   ├── operadores.py
-│   ├── condicionais.py
-│   └── loops.py
-├── 📁 estruturas_de_dados/
-│   ├── listas.py
-│   ├── dicionarios.py
-│   ├── tuplas.py
-│   └── conjuntos.py
-├── 📁 funcoes/
-│   ├── funcoes_basicas.py
-│   ├── lambdas.py
-│   └── recursao.py
-├── 📁 poo/
-│   ├── classes_e_objetos.py
-│   ├── heranca.py
-│   └── encapsulamento.py
-├── 📁 exercicios/
-│   └── (exercícios variados por tema)
-└── 📁 projetos/
-    └── (mini projetos práticos)
-```
-
 ---
 
 ## 🧠 Tópicos cobertos
