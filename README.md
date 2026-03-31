@@ -15,8 +15,8 @@ Este repositório documenta minha jornada de aprendizado em Python, com exercíc
 - [x] Variáveis e tipos de dados
 - [x] Operadores lógicos, aritméticos e de comparação
 - [x] Estruturas condicionais (`if`, `elif`, `else`)
-- [ ] Loops (`for`, `while`)
-- [ ] Funções e escopo
+- [x] Loops (`for`, `while`)
+- [x] Funções e escopo
 - [ ] Estruturas de dados (listas, dicionários, tuplas, sets)
 - [ ] Programação Orientada a Objetos (POO)
 - [ ] Tratamento de erros (`try`, `except`)
